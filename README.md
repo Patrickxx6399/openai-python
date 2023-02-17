@@ -48,7 +48,7 @@ pip install openai[datalib]
 The library needs to be configured with your account's secret key which is available on the [website](https://beta.openai.com/account/api-keys). Either set it as the `OPENAI_API_KEY` environment variable before using the library:
 
 ```bash
-export OPENAI_API_KEY='sk-...'
+export OPENAI_API_KEY='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'
 ```
 
 Or set `openai.api_key` to its value:
